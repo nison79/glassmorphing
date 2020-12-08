@@ -1,6 +1,6 @@
 body {
   background: #04121D;
-  color: black;
+  color: white;
   font-family: 'Poppins';
   margin: 0;
   padding: 14em 14em 14em 20em;
@@ -20,7 +20,7 @@ body {
 .container {
   display: inline-block;
   background: rgba(255, 255, 255, 0.2);
-  padding: 3em;
+  padding: 5em;
   border-radius: 3em;
   position: relative;
   z-index: 1;
